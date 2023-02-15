@@ -12,6 +12,11 @@ h1 {
   color: #fff;
 }
 
+p {
+  font-size: 30px;
+  color: #fff;
+}
+
 section {
   height: 100vh;
   display: flex;

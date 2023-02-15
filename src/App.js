@@ -12,7 +12,10 @@ function App() {
   return (
     <div className="App">
       <section className='s1'>
-        <h1>section 1</h1>
+        <div>
+          <h1>Animate on Scroll</h1>
+          <p>스크롤시 애니메이션 효과 주기</p>
+        </div>
       </section>
       <section className='s2'>
         <h1 data-aos='fade-left'>section 2</h1>
